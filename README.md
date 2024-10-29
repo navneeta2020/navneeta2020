@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently learning MERN Full Stack Course
 - 💞️ I’m looking to collaborate on some new software challenges
-- 📫 How to reach me: sinhanavneeta12@gmail.com
+- 📫 How to reach me: navneetasinha11@gmail.com
 
 <!---
 navneeta2020/navneeta2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
